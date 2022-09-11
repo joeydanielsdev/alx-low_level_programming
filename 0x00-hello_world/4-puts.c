@@ -1,8 +1,8 @@
  #include<stdio.h>
  /**
-  * main -void
+  * main -printing In c
   *
-  * Description: program to print text without prinf function
+  * This program prints: Programming is like building a multilingual puzzle
   *
   * Return: Always 0.
   */
