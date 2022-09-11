@@ -2,10 +2,9 @@
  /**
   * main - Void
   *
-  ** Description: 'program to print text without prinf function'
+  * Description: 'program to print text without prinf function'
   *
-  ** Return: Always 0 (Success)
-  *
+  * Return: Always 0.
   */
 int main(void)
 {
