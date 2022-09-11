@@ -1,14 +1,13 @@
  #include <stdio.h>
  /**
-  *
-  * main - Entry point
+  * joey - Void
   *
   ** Description: 'program to print text without prinf function'
   *
   ** Return: Always 0 (Success)
   *
   */
-int main(void)
+int joey(void)
 {
 	puts("\"Programming is like building a multilingual puzzle\n");
 	return (0);
