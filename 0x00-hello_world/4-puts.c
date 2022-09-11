@@ -1,10 +1,10 @@
-#!/bin/bash
-int main (void)
+ #!/bin/bash 
+ #include <studio.h>
+ /** print text without the print function **/
+
+ int main(void)
 
 {
-
-	    puts("Programming is like building a multilingual puzzle"/n);
-
-	        return 0;
+	puts("Programming is like building a multilingual puzzle"/n)
+	return 0;
 }
-
