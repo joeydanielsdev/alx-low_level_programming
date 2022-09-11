@@ -1,4 +1,3 @@
- #!/bin/bash 
  #include <studio.h>
  /** print text without the print function **/
 
