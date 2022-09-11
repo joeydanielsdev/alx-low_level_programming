@@ -1,8 +1,8 @@
  #include<stdio.h>
  /**
-  * main - Void
+  * main -void
   *
-  * Description: 'program to print text without prinf function'
+  * Description: program to print text without prinf function
   *
   * Return: Always 0.
   */
