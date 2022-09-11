@@ -1,10 +1,16 @@
  #include <stdio.h>
- /** print text without the print function **/
+ /**
+  *
+  ** main - Entry point
+  *
+  ** Description: 'program to print text without prinf function'
+  *
+  ** Return: Always 0 (Success)
+  *
+  **/
 
- int main(void)
-
- /** empty function **/
+int main(void)
 {
-	putchar("Programming is like building a multilingual puzzle\n");
-	return 0;
+	puts("Programming is like building a multilingual puzzle\n");
+	return (0);
 }
