@@ -1,7 +1,7 @@
  #include <stdio.h>
  /** print text without the print function **/
 
- int main(void);
+ int main(void)
 
  /** empty function **/
 {
